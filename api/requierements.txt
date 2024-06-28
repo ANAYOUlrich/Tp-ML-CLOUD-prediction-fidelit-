@@ -1,0 +1,6 @@
+flask
+uvicorn
+python-multipart
+tensorflow
+numpy
+streamlit
